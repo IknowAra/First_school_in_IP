@@ -5,7 +5,7 @@
 
 <p>우리 학교를 잘 모르시나요? 원하는 곳 어떤 곳에서든 간편하게 학교를 구경하세요!</p>
 <a href="http://map.emirim.kr/"><img src="https://user-images.githubusercontent.com/48753868/124411656-ebb89c80-dd87-11eb-9140-120f78a055ee.PNG"></a>
-> 위 사진 클릭을 클릭하시면 사이트로 이동합니다.
+>위 사진 클릭을 클릭하시면 사이트로 이동합니다.
 
 
 ## Screen
